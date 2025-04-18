@@ -1,4 +1,4 @@
-num1 = 20
+num1 = 50
 num2 = 30
 print("sum =")
 sum = num1 + num2
